@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/0/1894b4aca4df4a699021397ea1f8a57e/artifacts
+end_time: 1687930760605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1894b4aca4df4a699021397ea1f8a57e
+run_name: calm-worm-791
+run_uuid: 1894b4aca4df4a699021397ea1f8a57e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687930760585
+status: 4
+tags: []
+user_id: kushalbanda

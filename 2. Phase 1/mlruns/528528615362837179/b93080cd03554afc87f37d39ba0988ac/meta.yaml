@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/b93080cd03554afc87f37d39ba0988ac/artifacts
+end_time: 1687927817286
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: b93080cd03554afc87f37d39ba0988ac
+run_name: Random Forest Regressor
+run_uuid: b93080cd03554afc87f37d39ba0988ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927817219
+status: 3
+tags: []
+user_id: kushalbanda

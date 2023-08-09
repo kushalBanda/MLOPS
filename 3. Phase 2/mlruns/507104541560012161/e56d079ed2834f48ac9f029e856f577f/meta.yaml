@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/e56d079ed2834f48ac9f029e856f577f/artifacts
+end_time: 1688010613073
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: e56d079ed2834f48ac9f029e856f577f
+run_name: Orthogonal Matching Pursuit
+run_uuid: e56d079ed2834f48ac9f029e856f577f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010613003
+status: 3
+tags: []
+user_id: kushalbanda

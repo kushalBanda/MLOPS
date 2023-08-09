@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/62db2ccce54b4759bd797db632c9bc2f/artifacts
+end_time: 1687927819304
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: 62db2ccce54b4759bd797db632c9bc2f
+run_name: Dummy Regressor
+run_uuid: 62db2ccce54b4759bd797db632c9bc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927819239
+status: 3
+tags: []
+user_id: kushalbanda

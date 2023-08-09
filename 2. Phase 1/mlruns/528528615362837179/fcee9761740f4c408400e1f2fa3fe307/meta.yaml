@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/fcee9761740f4c408400e1f2fa3fe307/artifacts
+end_time: 1687927818390
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: fcee9761740f4c408400e1f2fa3fe307
+run_name: AdaBoost Regressor
+run_uuid: fcee9761740f4c408400e1f2fa3fe307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927818323
+status: 3
+tags: []
+user_id: kushalbanda

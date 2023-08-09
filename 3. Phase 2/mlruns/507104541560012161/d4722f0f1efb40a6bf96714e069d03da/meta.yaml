@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/d4722f0f1efb40a6bf96714e069d03da/artifacts
+end_time: 1688010613964
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: d4722f0f1efb40a6bf96714e069d03da
+run_name: Bayesian Ridge
+run_uuid: d4722f0f1efb40a6bf96714e069d03da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010613889
+status: 3
+tags: []
+user_id: kushalbanda

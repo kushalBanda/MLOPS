@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/693d4041e4de4955add8ee18059dcfe2/artifacts
+end_time: 1688010612592
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 693d4041e4de4955add8ee18059dcfe2
+run_name: Decision Tree Regressor
+run_uuid: 693d4041e4de4955add8ee18059dcfe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010612517
+status: 3
+tags: []
+user_id: kushalbanda

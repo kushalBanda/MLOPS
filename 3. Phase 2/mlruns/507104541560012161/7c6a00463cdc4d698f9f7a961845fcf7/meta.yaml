@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/7c6a00463cdc4d698f9f7a961845fcf7/artifacts
+end_time: 1688010612918
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 7c6a00463cdc4d698f9f7a961845fcf7
+run_name: K Neighbors Regressor
+run_uuid: 7c6a00463cdc4d698f9f7a961845fcf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010612846
+status: 3
+tags: []
+user_id: kushalbanda

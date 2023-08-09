@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/0/3b5fd7d3f995410888b5d0ab1e5165e0/artifacts
+end_time: 1687931810457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b5fd7d3f995410888b5d0ab1e5165e0
+run_name: skittish-bee-469
+run_uuid: 3b5fd7d3f995410888b5d0ab1e5165e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687931808595
+status: 3
+tags: []
+user_id: kushalbanda

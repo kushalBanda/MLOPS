@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/fbcf8e50be3148eb906d8c31d9ddc45e/artifacts
+end_time: 1687927845089
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: fbcf8e50be3148eb906d8c31d9ddc45e
+run_name: Gradient Boosting Regressor
+run_uuid: fbcf8e50be3148eb906d8c31d9ddc45e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927844876
+status: 3
+tags: []
+user_id: kushalbanda

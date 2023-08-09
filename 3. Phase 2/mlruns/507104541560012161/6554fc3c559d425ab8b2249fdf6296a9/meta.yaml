@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/6554fc3c559d425ab8b2249fdf6296a9/artifacts
+end_time: 1688010613217
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 6554fc3c559d425ab8b2249fdf6296a9
+run_name: Lasso Regression
+run_uuid: 6554fc3c559d425ab8b2249fdf6296a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010613145
+status: 3
+tags: []
+user_id: kushalbanda

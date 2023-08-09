@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/9863065ad2fa493b93852759ebec0b29/artifacts
+end_time: 1688010394676
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 9863065ad2fa493b93852759ebec0b29
+run_name: Session Initialized 8c3b
+run_uuid: 9863065ad2fa493b93852759ebec0b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687954121099
+status: 3
+tags: []
+user_id: kushalbanda

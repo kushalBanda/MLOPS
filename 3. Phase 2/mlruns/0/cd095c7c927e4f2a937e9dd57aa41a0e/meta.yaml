@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/0/cd095c7c927e4f2a937e9dd57aa41a0e/artifacts
+end_time: 1687930686171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd095c7c927e4f2a937e9dd57aa41a0e
+run_name: nimble-croc-851
+run_uuid: cd095c7c927e4f2a937e9dd57aa41a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687930686140
+status: 4
+tags: []
+user_id: kushalbanda

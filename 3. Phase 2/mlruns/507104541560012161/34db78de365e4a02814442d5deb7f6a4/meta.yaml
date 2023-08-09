@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/34db78de365e4a02814442d5deb7f6a4/artifacts
+end_time: 1688010613810
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 34db78de365e4a02814442d5deb7f6a4
+run_name: Ridge Regression
+run_uuid: 34db78de365e4a02814442d5deb7f6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010613734
+status: 3
+tags: []
+user_id: kushalbanda

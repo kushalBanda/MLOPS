@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/942e0f30d52b4f989eb33479c2d07c72/artifacts
+end_time: 1687927817440
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: 942e0f30d52b4f989eb33479c2d07c72
+run_name: Extra Trees Regressor
+run_uuid: 942e0f30d52b4f989eb33479c2d07c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927817370
+status: 3
+tags: []
+user_id: kushalbanda

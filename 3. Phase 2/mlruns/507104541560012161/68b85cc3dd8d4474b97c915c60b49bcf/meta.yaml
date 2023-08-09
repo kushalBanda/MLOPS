@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/68b85cc3dd8d4474b97c915c60b49bcf/artifacts
+end_time: 1688010614112
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 68b85cc3dd8d4474b97c915c60b49bcf
+run_name: Huber Regressor
+run_uuid: 68b85cc3dd8d4474b97c915c60b49bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010614039
+status: 3
+tags: []
+user_id: kushalbanda

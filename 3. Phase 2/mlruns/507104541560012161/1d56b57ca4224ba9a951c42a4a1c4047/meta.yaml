@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/507104541560012161/1d56b57ca4224ba9a951c42a4a1c4047/artifacts
+end_time: 1688010761589
+entry_point_name: ''
+experiment_id: '507104541560012161'
+lifecycle_stage: active
+run_id: 1d56b57ca4224ba9a951c42a4a1c4047
+run_name: Light Gradient Boosting Machine
+run_uuid: 1d56b57ca4224ba9a951c42a4a1c4047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688010760084
+status: 3
+tags: []
+user_id: kushalbanda

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/dbc62895556c49bc965a31f3ac8136a4/artifacts
+end_time: 1687927819001
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: dbc62895556c49bc965a31f3ac8136a4
+run_name: Elastic Net
+run_uuid: dbc62895556c49bc965a31f3ac8136a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927818933
+status: 3
+tags: []
+user_id: kushalbanda

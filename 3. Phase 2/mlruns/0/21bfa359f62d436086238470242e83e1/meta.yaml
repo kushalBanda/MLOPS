@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%202/mlruns/0/21bfa359f62d436086238470242e83e1/artifacts
+end_time: 1687931315288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21bfa359f62d436086238470242e83e1
+run_name: traveling-shrimp-583
+run_uuid: 21bfa359f62d436086238470242e83e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687931315240
+status: 4
+tags: []
+user_id: kushalbanda

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Phase%201/mlruns/528528615362837179/9de18f07c46248ada5791f67aa799c68/artifacts
+end_time: 1687927818236
+entry_point_name: ''
+experiment_id: '528528615362837179'
+lifecycle_stage: active
+run_id: 9de18f07c46248ada5791f67aa799c68
+run_name: Linear Regression
+run_uuid: 9de18f07c46248ada5791f67aa799c68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687927818171
+status: 3
+tags: []
+user_id: kushalbanda
