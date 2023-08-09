@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Pycaret/mlruns/865393684091396074/f26354841b524a2c8f3277beb29156e1/artifacts
+end_time: 1687763830839
+entry_point_name: ''
+experiment_id: '865393684091396074'
+lifecycle_stage: active
+run_id: f26354841b524a2c8f3277beb29156e1
+run_name: Bayesian Ridge
+run_uuid: f26354841b524a2c8f3277beb29156e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687763830788
+status: 3
+tags: []
+user_id: kushalbanda

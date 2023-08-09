@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Pycaret/mlruns/865393684091396074/a00a737c52164b8885671ac092f319b2/artifacts
+end_time: 1687763831381
+entry_point_name: ''
+experiment_id: '865393684091396074'
+lifecycle_stage: active
+run_id: a00a737c52164b8885671ac092f319b2
+run_name: K Neighbors Regressor
+run_uuid: a00a737c52164b8885671ac092f319b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687763831331
+status: 3
+tags: []
+user_id: kushalbanda

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Pycaret/mlruns/865393684091396074/fe0fe88004804136b8c4d9b51da5f022/artifacts
+end_time: 1687763831647
+entry_point_name: ''
+experiment_id: '865393684091396074'
+lifecycle_stage: active
+run_id: fe0fe88004804136b8c4d9b51da5f022
+run_name: Elastic Net
+run_uuid: fe0fe88004804136b8c4d9b51da5f022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687763831597
+status: 3
+tags: []
+user_id: kushalbanda

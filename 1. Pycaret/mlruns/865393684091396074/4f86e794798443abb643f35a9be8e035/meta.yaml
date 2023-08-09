@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kushalbanda/Applications/MLOPS/Pycaret/mlruns/865393684091396074/4f86e794798443abb643f35a9be8e035/artifacts
+end_time: 1687763830705
+entry_point_name: ''
+experiment_id: '865393684091396074'
+lifecycle_stage: active
+run_id: 4f86e794798443abb643f35a9be8e035
+run_name: Ridge Regression
+run_uuid: 4f86e794798443abb643f35a9be8e035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687763830648
+status: 3
+tags: []
+user_id: kushalbanda
